@@ -1,1 +1,1 @@
-https://karishma-dahiya.github.io/RGB-color-game/
+https://karishma-dahiya.github.io/Color-game/
